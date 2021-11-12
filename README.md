@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @IgnacioPadovan
+- 
 - 👀 I’m interested in learn and apply technology
+- 
 - 🌱 I’m currently learning about Java - Spring - HTML - CSS
+- 
 - 💞️ I’m looking to collaborate on any web develop proyect 
+- 
 - 📫 How to reach me ... ignaciopadovan@gmail.com || www.linkedin.com/in/josé-ignacio-padovan
 
 
